@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Logic.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Logic.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\WebAutomation.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:WebAutomation.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Logic.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Logic.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Utility.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Utility.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -214,25 +218,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Utility.py",
+              "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Utility.py",
+              "RelativeDocumentMoniker": "Utility.py",
+              "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Utility.py",
+              "RelativeToolTip": "Utility.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-08T13:39:58.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Logic.py",
               "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Logic.py",
               "RelativeDocumentMoniker": "Logic.py",
               "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Logic.py",
               "RelativeToolTip": "Logic.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-08T13:03:10.013Z"
+              "WhenOpened": "2026-05-08T13:03:10.013Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WebAutomation.py",
               "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\WebAutomation.py",
               "RelativeDocumentMoniker": "WebAutomation.py",
               "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\WebAutomation.py",
               "RelativeToolTip": "WebAutomation.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-05-08T12:43:26.145Z",
               "EditorCaption": ""

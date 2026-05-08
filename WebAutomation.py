@@ -1,12 +1,14 @@
 import logging
 import Logic as logic
+import Utility as utility
+from pathlib import Path
 
-logger = logging.getLogger(__name__)
+logger = ""   
 
 def main():
-    logging.basicConfig(filename='main.log', level=logging.INFO)
+    logger = utility.get_logger("Main", "main.log")
     logger.info('Start web automation')
-    logic.startChrome
+    logic.start_chrome_automation()
     logger.info('Web automation finished')
 
 if __name__ == '__main__':

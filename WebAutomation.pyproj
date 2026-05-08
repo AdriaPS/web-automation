@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Logic.py" />
+    <Compile Include="Utility.py" />
     <Compile Include="WebAutomation.py" />
   </ItemGroup>
   <ItemGroup>
