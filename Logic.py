@@ -1,5 +1,4 @@
 import logging
-import Utility as utility
 from pathlib import Path
 from selenium import undetected_chromedriver as ucd
 
@@ -13,7 +12,7 @@ def get_user_data():
     f = open("userData.txt", "r")
     lines = f.readlines()
     
-    for i, line in enumerate(lines):
+    for line in lines:
         variables = line.strip().split(",")
         
         if len(variables) < 2:
