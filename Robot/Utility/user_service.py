@@ -21,9 +21,13 @@ class UserService:
                     self.logger.error(f"There are too many variables to process the line {i}.")
                     continue
         
-                username, access_key = variables
+                username, password = variables
         
                 data = {
+                    "username":username,
+                    "password":password
                 }
         
                 user_data.append(data)
+                
+        return user_data

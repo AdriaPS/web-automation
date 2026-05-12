@@ -22,13 +22,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="encryptor.py" />
     <Compile Include="Robot\config.py" />
     <Compile Include="Robot\Domain\login_page.py" />
     <Compile Include="Robot\Domain\purchase_page.py" />
     <Compile Include="Robot\main.py" />
     <Compile Include="Robot\Utility\browser.py" />
+    <Compile Include="Robot\Utility\encryption_helper.py" />
     <Compile Include="Robot\Utility\logger.py" />
     <Compile Include="Robot\Utility\user_service.py" />
+    <Compile Include="rsa_key_gen.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Robot\" />
