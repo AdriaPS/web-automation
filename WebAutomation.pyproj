@@ -4,8 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8da7ef36-aa17-4204-b997-868b516e8097</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>Robot\main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,12 +22,22 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Logic.py" />
     <Compile Include="Robot\config.py" />
     <Compile Include="Robot\Domain\login_page.py" />
     <Compile Include="Robot\Domain\purchase_page.py" />
     <Compile Include="Robot\main.py" />
+    <Compile Include="Robot\Utility\browser.py" />
     <Compile Include="Robot\Utility\logger.py" />
+    <Compile Include="Robot\Utility\user_service.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Robot\" />
+    <Folder Include="Robot\Domain\" />
+    <Folder Include="Robot\Utility\" />
+    <Folder Include="Tests\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
@@ -40,12 +49,6 @@
       <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
       <Architecture>X64</Architecture>
     </Interpreter>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Robot\" />
-    <Folder Include="Robot\Domain\" />
-    <Folder Include="Robot\Utility\" />
-    <Folder Include="Tests\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

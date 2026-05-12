@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Logic.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Logic.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\user_service.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\Utility\\user_service.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\login_page.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\Domain\\login_page.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\purchase_page.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\Domain\\purchase_page.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\purchase_page.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\Domain\\purchase_page.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -25,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\logger.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\Utility\\logger.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\browser.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\Utility\\browser.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 53,
+          "SelectedChildIndex": 49,
           "Children": [
             {
               "$type": "Bookmark",
@@ -230,13 +234,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "browser.py",
+              "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\browser.py",
+              "RelativeDocumentMoniker": "Robot\\Utility\\browser.py",
+              "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\browser.py",
+              "RelativeToolTip": "Robot\\Utility\\browser.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-12T13:22:54.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "user_service.py",
+              "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\user_service.py",
+              "RelativeDocumentMoniker": "Robot\\Utility\\user_service.py",
+              "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\user_service.py",
+              "RelativeToolTip": "Robot\\Utility\\user_service.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-12T13:16:30.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.py",
               "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\main.py",
               "RelativeDocumentMoniker": "Robot\\main.py",
               "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\main.py",
               "RelativeToolTip": "Robot\\main.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-05-09T13:06:34.216Z",
               "EditorCaption": ""
@@ -249,7 +279,7 @@
               "RelativeDocumentMoniker": "Robot\\Utility\\logger.py",
               "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\logger.py",
               "RelativeToolTip": "Robot\\Utility\\logger.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-05-09T13:06:21.202Z",
               "EditorCaption": ""
@@ -269,13 +299,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "purchase_page.py",
               "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\purchase_page.py",
               "RelativeDocumentMoniker": "Robot\\Domain\\purchase_page.py",
               "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\purchase_page.py",
               "RelativeToolTip": "Robot\\Domain\\purchase_page.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-05-09T13:05:53.824Z",
               "EditorCaption": ""
@@ -288,22 +318,9 @@
               "RelativeDocumentMoniker": "Robot\\Domain\\login_page.py",
               "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\login_page.py",
               "RelativeToolTip": "Robot\\Domain\\login_page.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-05-09T13:05:40.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Logic.py",
-              "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Logic.py",
-              "RelativeDocumentMoniker": "Logic.py",
-              "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Logic.py",
-              "RelativeToolTip": "Logic.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-08T13:03:10.013Z",
               "EditorCaption": ""
             }
           ]
