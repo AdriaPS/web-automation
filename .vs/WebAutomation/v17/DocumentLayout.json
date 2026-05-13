@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\login_page.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\Domain\\login_page.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\purchase_page.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\Domain\\purchase_page.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\user_service.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\Utility\\user_service.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\login_page.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\Domain\\login_page.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\encryption_helper.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\Utility\\encryption_helper.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\encryptor.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:encryptor.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\rsa_key_gen.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:rsa_key_gen.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\browser.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\Utility\\browser.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\user_service.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|solutionrelative:Robot\\Utility\\user_service.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DA7EF36-AA17-4204-B997-868B516E8097}|WebAutomation.pyproj|C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\logger.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -50,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 57,
+          "SelectedChildIndex": 48,
           "Children": [
             {
               "$type": "Bookmark",
@@ -246,106 +234,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "encryption_helper.py",
-              "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\encryption_helper.py",
-              "RelativeDocumentMoniker": "Robot\\Utility\\encryption_helper.py",
-              "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\encryption_helper.py",
-              "RelativeToolTip": "Robot\\Utility\\encryption_helper.py",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-12T15:41:50.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "rsa_key_gen.py",
-              "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\rsa_key_gen.py",
-              "RelativeDocumentMoniker": "rsa_key_gen.py",
-              "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\rsa_key_gen.py",
-              "RelativeToolTip": "rsa_key_gen.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-12T15:05:03.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "encryptor.py",
-              "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\encryptor.py",
-              "RelativeDocumentMoniker": "encryptor.py",
-              "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\encryptor.py",
-              "RelativeToolTip": "encryptor.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-12T15:01:51.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "browser.py",
-              "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\browser.py",
-              "RelativeDocumentMoniker": "Robot\\Utility\\browser.py",
-              "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\browser.py",
-              "RelativeToolTip": "Robot\\Utility\\browser.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-12T13:22:54.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.py",
               "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\main.py",
               "RelativeDocumentMoniker": "Robot\\main.py",
               "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\main.py",
               "RelativeToolTip": "Robot\\main.py",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACIAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-05-09T13:06:34.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "user_service.py",
               "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\user_service.py",
               "RelativeDocumentMoniker": "Robot\\Utility\\user_service.py",
               "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\user_service.py",
               "RelativeToolTip": "Robot\\Utility\\user_service.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAYAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-05-12T13:16:30.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "logger.py",
               "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\logger.py",
               "RelativeDocumentMoniker": "Robot\\Utility\\logger.py",
               "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\logger.py",
               "RelativeToolTip": "Robot\\Utility\\logger.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-05-09T13:06:21.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "config.py",
               "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\config.py",
               "RelativeDocumentMoniker": "Robot\\config.py",
               "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\config.py",
               "RelativeToolTip": "Robot\\config.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-05-09T13:06:07.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login_page.py",
+              "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\login_page.py",
+              "RelativeDocumentMoniker": "Robot\\Domain\\login_page.py",
+              "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\login_page.py",
+              "RelativeToolTip": "Robot\\Domain\\login_page.py",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-09T13:05:40.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "encryption_helper.py",
+              "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\encryption_helper.py",
+              "RelativeDocumentMoniker": "Robot\\Utility\\encryption_helper.py",
+              "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Utility\\encryption_helper.py",
+              "RelativeToolTip": "Robot\\Utility\\encryption_helper.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-05-12T15:41:50.704Z",
               "EditorCaption": ""
             },
             {
@@ -356,22 +318,9 @@
               "RelativeDocumentMoniker": "Robot\\Domain\\purchase_page.py",
               "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\purchase_page.py",
               "RelativeToolTip": "Robot\\Domain\\purchase_page.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-05-09T13:05:53.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "login_page.py",
-              "DocumentMoniker": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\login_page.py",
-              "RelativeDocumentMoniker": "Robot\\Domain\\login_page.py",
-              "ToolTip": "C:\\DATA\\APU\\Projects\\Tools\\WebAutomation\\Robot\\Domain\\login_page.py",
-              "RelativeToolTip": "Robot\\Domain\\login_page.py",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2026-05-09T13:05:40.988Z",
               "EditorCaption": ""
             }
           ]
